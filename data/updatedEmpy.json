@@ -1,0 +1,27 @@
+{
+    "schema": "nsun2j9pe6k2YySUl2C3aA",
+    "payload": {
+        "LastModifiedDate": "2022-10-05T07:59:08.000Z",
+        "ChangeEventHeader": {
+            "commitNumber": 11308750566658,
+            "commitUser": "0057F000000HmirQAC",
+            "sequenceNumber": 1,
+            "entityName": "Employee__c",
+            "changeType": "UPDATE",
+            "changedFields": [
+                "LastModifiedDate",
+                "Tenure__c"
+            ],
+            "changeOrigin": "",
+            "transactionKey": "000029c2-33e4-d9d8-a7b3-fda21ff3cc11",
+            "commitTimestamp": 1664956748000,
+            "recordIds": [
+                "a187F000008gE63QAE"
+            ]
+        },
+        "Tenure__c": 3.0
+    },
+    "event": {
+        "replayId": 6581882
+    }
+}
