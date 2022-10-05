@@ -1,0 +1,22 @@
+{
+    "schema": "nsun2j9pe6k2YySUl2C3aA",
+    "payload": {
+        "ChangeEventHeader": {
+            "commitNumber": 11308753525052,
+            "commitUser": "0057F000000HmirQAC",
+            "sequenceNumber": 1,
+            "entityName": "Employee__c",
+            "changeType": "DELETE",
+            "changedFields": [],
+            "changeOrigin": "",
+            "transactionKey": "00007da6-6c6f-40ad-c9e3-cdb6c8003bc9",
+            "commitTimestamp": 1664957283000,
+            "recordIds": [
+                "a187F000008gE63QAE"
+            ]
+        }
+    },
+    "event": {
+        "replayId": 6581887
+    }
+}
